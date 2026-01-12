@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test name="Test Scenarios">
+        <classes>
+            <!--<class name="com.sgtesting.testngassertion.Scenario1"></class>-->
+            <!--<class name="com.sgtesting.testngassertion.Scenario2"></class>-->
+             <class name="com.sgtesting.testngassertion.Scenario3"></class>
+             <!--<class name="com.sgtesting.testngassertion.Scenario4"></class-->>
+            <!--<class name="com.sgtesting.testngassertion.Scenario5"></class>-->
+           <!-- <class name="com.sgtesting.testngassertion.Scenario6"></class>-->
+
+        </classes>
+    </test>
+</suite>
